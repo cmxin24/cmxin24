@@ -6,10 +6,14 @@ Hello! Just call me Xin. 😉
 A graduate student from China
 </p>
 
-### Languages and Tools
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,godot,html,js,css,react,nodejs,kubernetes,bash,linux,docker,&perline=7)](https://skillicons.dev)
+<h3>Languages and Tools</h3>
 
-### Connect with me
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,godot,html,js,css,react,nodejs,kubernetes,bash,linux,docker&perline=7)](https://skillicons.dev)
 
-[![Connect](https://skillicons.dev/icons?i=linkedin,&perline=7)](https://www.linkedin.com/in/mengbi-yu/)
+<h3>Connect with me</h3>
+
+[![Connect](https://skillicons.dev/icons?i=linkedin,&perline=1)](https://www.linkedin.com/in/mengbi-yu/)
+
+</div>
