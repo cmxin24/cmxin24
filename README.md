@@ -8,11 +8,15 @@ A graduate student from China
 
 <div align="center">
 
-## Languages and Tools
+<p align="center" style="font-size:24px; font-weight:bold;">
+Languages and Tools
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,godot,html,js,css,react,nodejs,kubernetes,bash,linux,docker&perline=7)](https://skillicons.dev)
 
-## Connect with me
+<p align="center" style="font-size:24px; font-weight:bold;">
+Languages and Tools
+</p>
 
 [![Connect](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/mengbi-yu/)
 
