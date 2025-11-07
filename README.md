@@ -2,17 +2,17 @@
 Hello! Just call me Xin. 😉 
 </h1>
 
-<p align="center" font-size: 24px>
+<p align="center">
 A graduate student from China
 </p>
 
 <div align="center">
 
-<h3 align="center">Languages and Tools</h3>
+<h3>Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,godot,html,js,css,react,nodejs,kubernetes,bash,linux,docker&perline=7)](https://skillicons.dev)
 
-<h3 align="center">Connect with me</h3>
+<h3>Connect with me</h3>
 
 [![Connect](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/mengbi-yu/)
 
