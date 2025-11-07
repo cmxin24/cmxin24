@@ -8,13 +8,13 @@ A graduate student from China
 
 <div align="center">
 
-<p align="center" style="font-size:24px; font-weight:bold;">
+<p align="center" style="font-size:48px; font-weight:bold;">
 Languages and Tools
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,godot,html,js,css,react,nodejs,kubernetes,bash,linux,docker&perline=7)](https://skillicons.dev)
 
-<p align="center" style="font-size:24px; font-weight:bold;">
+<p align="center" style="font-size:48px; font-weight:bold;">
 Languages and Tools
 </p>
 
