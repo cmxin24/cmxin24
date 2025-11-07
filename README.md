@@ -1,8 +1,8 @@
-<h2 align="center">
+<h1 align="center">
 Hello! Just call me Xin. 😉 
-</h2>
+</h1>
 
-<p align="center">
+<p align="center" font-size: 24px>
 A graduate student from China
 </p>
 
